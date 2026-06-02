@@ -1,4 +1,18 @@
 [Download the PDF/MD version and support development on Ko-fi](https://ko-fi.com/sarcasmdetector)
+# Photon Two: Second Derivation of F-3L1X the cAIt
+### [!] Architectural Blueprint & Generative Primer
+
+Notice to operators incoming from Reddit: This document is the full, unedited V1 bedrock blueprint. It is a structural seed, not a plug-and-play installer. 
+
+To initialize a working framework:
+1. Feed this entire document directly to your local LLM or development assistant.
+2. Interrogate the AI systematically using the Socratic method regarding the memory silos, character masks, and routing loops detailed below.
+3. If you ask the right questions, you will map out a working local system in a few hours.
+
+---
+## [ORIGINAL BLUEPRINT TEXT BEGINS HERE]
+... (Your existing Photon Two document continues uninterrupted)
+
 # PHOTON TWO — A BLUEPRINT FOR BUILDING YOUR OWN AI ACTOR
 
 ---
